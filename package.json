@@ -1,0 +1,13 @@
+{
+  "name": "prisma-pkg-reproduction",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertCraigie/prisma-pkg-reproduction.git"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.6.0",
+    "pkg": "^5.5.1",
+    "prisma": "^3.6.0"
+  }
+}
